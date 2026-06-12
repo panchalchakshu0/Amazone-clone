@@ -5,7 +5,7 @@ This project focuses on practicing frontend skills by recreating the layout and 
 
 ## Live Demo
 
-Netlify: amazonnclone16.netlify.app
+Netlify: (https://amazonnclone16.netlify.app)
 
 ## Features
 
@@ -22,12 +22,12 @@ Netlify: amazonnclone16.netlify.app
 - Font Awesome
 
 ## Project Structure
-Amazon
-│
-├── index.html
-├── style.css
-├── images/
-└── README.md
+Amazon-Clone/
+
+├── index.html  
+├── style.css  
+├── images/  
+└── README.md  
 ## Author
 
 Akshu Panchal
