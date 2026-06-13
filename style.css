@@ -24,7 +24,7 @@ body {
 }
 
 .logo {
-    background-image: url('logo.png');
+    background-image: url('images/logo.png');
     background-size: contain;
     height: 60px;
     width: 100px;
@@ -129,7 +129,7 @@ nav1 {
 }
 
 .banner {
-    background-image: url('hero.jpg');
+    background-image: url('images/hero.jpg');
     background-size: cover;
     height: 400px;
     margin-top: 0px;
@@ -151,7 +151,7 @@ nav1 {
 }
 
 .Boximage1 {
-    background-image: url('box1.jpg');
+    background-image: url('images/box1.jpg');
     background-size: cover;
     height: 250px;
     width: 250px;
@@ -161,7 +161,7 @@ nav1 {
 }
 
 .Boximage2 {
-    background-image: url('box2.jpg');
+    background-image: url('images/box2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -173,7 +173,7 @@ nav1 {
 }
 
 .Boximage3 {
-    background-image: url('box3.jpg');
+    background-image: url('images/box3.jpg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -184,7 +184,7 @@ nav1 {
 }
 
 .Boximage4 {
-    background-image: url('box4.jpg');
+    background-image: url('images/box4.jpg');
     background-size: cover;
     background-position: center;
     height: 250px;
@@ -195,7 +195,7 @@ nav1 {
 }
 
 .Boximage5 {
-    background-image: url('box5.jpg');
+    background-image: url('images/box5.jpg');
     background-size: cover;
     height: 250px;
     width: 250px;
@@ -205,7 +205,7 @@ nav1 {
 }
 
 .Boximage6 {
-    background-image: url('box6.jpg');
+    background-image: url('images/box6.jpg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -216,7 +216,7 @@ nav1 {
 }
 
 .Boximage7 {
-    background-image: url('box7.jpg');
+    background-image: url('images/box7.jpg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -227,7 +227,7 @@ nav1 {
 }
 
 .Boximage8 {
-    background-image: url('box8.jpg');
+    background-image: url('images/box8.jpg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -326,7 +326,7 @@ ul p {
 
 
 .logo1 {
-    background-image: url("logo.png");
+    background-image: url("images/logo.png");
     height: 50px;
     width: 100px;
     background-size: cover;
